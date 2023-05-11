@@ -1,0 +1,5 @@
+Target {
+	1. 自实现profile 解析能够为C2 高度定制化功能
+	2. 参考cobalt strike的 profile格式 实现c# 词法解析
+	3. 自定义扩展profile版本
+}
